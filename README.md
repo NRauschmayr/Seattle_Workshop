@@ -1,5 +1,6 @@
 # Seattle_Workshop
 
+
 Day1:
 - Introduction to deep learning
 - Introduction to MXNet, Gluon and Sagemaker
