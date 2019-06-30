@@ -8,6 +8,7 @@ Day1:
 - Object detection lab
 - GAN lab
 
+
 Day2:
 - Introduction to time series and sequence models
 - Introduction to recurrent neural networks
